@@ -1,7 +1,7 @@
 ![Banner](Gititdone_readme_repo.gif)
 
 # 💫 About Me:
-💻 THE ONE WHO CAN DO ANYTHING FOR BETTERMENT OF Tomorrow!
+💻 THE ONE WHo CAN Do ANYTHING FoR BETTERMENT oF ToMoRRoW!  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TEJAVENKAT299/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TEJAVENKAT299/) 
